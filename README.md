@@ -36,3 +36,6 @@ for get employee by id :- http://localhost:8080/employee/{}
 for updated employee :- http://localhost:8080/employee/{}
 
 for delete employee :- http://localhost:8080/employee/{}
+
+ER Diagram
+![ER Diagram](employeemanagement/er_diagram_ employee_management.png)
