@@ -38,4 +38,4 @@ for updated employee :- http://localhost:8080/employee/{}
 for delete employee :- http://localhost:8080/employee/{}
 
 ER Diagram
-![ER Diagram](employeemanagement/er_diagram.png)
+![ER Diagram](er diagram.png)
