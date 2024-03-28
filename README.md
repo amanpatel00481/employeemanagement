@@ -37,5 +37,8 @@ for updated employee :- http://localhost:8080/employee/{}
 
 for delete employee :- http://localhost:8080/employee/{}
 
+## ER Diagram
+
+Here's the Entity-Relationship (ER) diagram for the Employee Management System:
 ![ER Diagram](er_diagram.png)
 
